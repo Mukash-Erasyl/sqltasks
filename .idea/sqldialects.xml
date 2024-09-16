@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Exercise_company_db.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-1-10/sagintaev-tasksql-01/sagintaev_task_01.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-1-10/sagintaev-tasksql-02/sagintaev_task_02.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-1-10/sagintaev-tasksql-03/sagintaev_task_03.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-1-10/sagintaev-tasksql-04/sagintaev_task_04.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-1-10/sagintaev-tasksql-05/sagintaev_task_05.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-1-10/sagintaev-tasksql-06/sagintaev_task_06.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-1-10/sagintaev-tasksql-07/sagintaev_task_07.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-1-10/sagintaev-tasksql-08/sagintaev_task_08.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-1-10/sagintaev-tasksql-09/sagintaev_task_09.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-1-10/sagintaev-tasksql-10/sagintaev_task_10.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-10-20/sagintaev-tasksql-12/sagintaev_task_12.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-10-20/sagintaev-tasksql-13/sagintaev_task_13.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-10-20/sagintaev-tasksql-14/sagintaev_task_14.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-10-20/sagintaev-tasksql-15/sagintaev_task_15.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-10-20/sagintaev-tasksql-16/sagintaev_task_16.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-10-20/sagintaev-tasksql-17/sagintaev_task_17.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-10-20/sagintaev-tasksql-18/sagintaev_task_18.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-10-20/sagintaev-tasksql-19/sagintaev_task_19.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql-tasks-10-20/sagintaev-tasksql-20/sagintaev_task_20.sql" dialect="MySQL" />
+  </component>
+</project>
